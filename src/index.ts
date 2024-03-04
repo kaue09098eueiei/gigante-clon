@@ -48,7 +48,7 @@ client.on("ready", async () => {
     .setState('Running...')
     .setDetails('O melhor servidor sobre bots ')
     .setAssetsLargeImage('https://imgur.com/a/0chc12w')
-    .setAssetsLargeText('Gigante Vendas)
+    .setAssetsLargeText('Gigante Vendas')
     .setAssetsSmallImage('https://imgur.com/a/0chc12w')
     .setAssetsSmallText('Join')
     .setStartTimestamp(dateFromTimestamp)
