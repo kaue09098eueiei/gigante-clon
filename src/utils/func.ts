@@ -68,7 +68,7 @@ export function creatorname() {
   console.clear();
   console.log(
     gradient(["#ff4500", "#ffa500", "#ff6347"])(`
-           ᙏOᙀᖇᗣᗣ-ᙅᒐOᙁᙓᖇ
+           GIGANTE-ᙅᒐOᙁᙓᖇ
                                                                                                
     `)
   );
